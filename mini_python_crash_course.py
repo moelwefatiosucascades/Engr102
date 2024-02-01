@@ -30,7 +30,7 @@ def main():
     # To clarify, parameters are the names listed in the functions definition.
     # The arguments are the specific values passed to the function. 
     my_name = "Mo Elwefati" # put your name inside of the quotes
-    my_favorite_color = "Blue" # put your favorite color inside of the quotes
+    my_favorite_color = "Red" # put your favorite color inside of the quotes
 
     # TODO: Look inside the module_1_parameters() function below to see how it works.
 
